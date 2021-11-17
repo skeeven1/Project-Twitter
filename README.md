@@ -5,7 +5,7 @@ We made a twitter clone responsive using HTML5 and CSS for educational purposes 
 ## 🎴 Layout
 ![image](https://user-images.githubusercontent.com/91453728/142171233-0327832c-a3ea-4b91-8ebd-9a02ab643e36.png)
 
-# To view an overview
+## 👀 A closer look
 
 #### 🚀🔥 [See in action on codepen](https://codepen.io/timothecdgp/pen/JjywLgJ)
 
@@ -22,7 +22,7 @@ or
 - [HTML5](https://www.w3schools.com/html/)
 - [CSS3](https://www.w3schools.com/css/)
 
-## Contributors
+## 🙍‍♂️ Contributors
 Project made by 
 `Skeeven` with `Timothé`  
 
