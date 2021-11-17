@@ -5,13 +5,20 @@ We made a twitter clone responsive using HTML5 and CSS for educational purposes 
 ## 🎴 Layout
 ![image](https://user-images.githubusercontent.com/91453728/142171233-0327832c-a3ea-4b91-8ebd-9a02ab643e36.png)
 
-###### 🚀🔥 [See in action](https://github.com/skeeven1/Project-Twitter)
+###### 🚀🔥 [See in action](https://codepen.io/timothecdgp/pen/JjywLgJ)
+or
+
+
+* Download the ZIP file with the green 'Code' button
+* Unpack it
+* Open the folder with a code editor
+* Open the file `index.html`
 
 ## 💻 Technologies
 - [HTML5](https://www.w3schools.com/html/)
 - [CSS3](https://www.w3schools.com/css/)
 
 ## Contributors
-Made by 
+Project made by 
 `Skeeven` with `Timothé`  
 
