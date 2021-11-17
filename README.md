@@ -1,5 +1,5 @@
 # Project Twitter
-We made a twitter clone responsive using HTML5 and CSS for educational to learn more about this technologies
+We made a twitter clone responsive using HTML5 and CSS for educational purposes to learn more about this technologies
 
 ### Twitter clone built with CSS + HTML
 ## 🎴 Layout
@@ -12,5 +12,6 @@ We made a twitter clone responsive using HTML5 and CSS for educational to learn 
 - [CSS3](https://www.w3schools.com/css/)
 
 ## Contributors
-Made by Skeeven with Timothé  
+Made by 
+`Skeeven` with `Timothé`  
 
