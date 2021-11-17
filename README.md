@@ -1,5 +1,5 @@
 # Project Twitter
-# We made a twitter clone responsive using HTML5 + CSS3
+We made a twitter clone responsive using HTML5 + CSS3
 
 ## Sub Topic Headings H2
 Sub Topic Headings H2 is used for sub sections like Configurations, Authors etc.
