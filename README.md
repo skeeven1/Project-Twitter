@@ -4,7 +4,7 @@ We made a twitter clone responsive using HTML5 and CSS for educational purposes 
 ### Twitter clone built with CSS + HTML
 
 ## 🎴 Layout
-![image](https://user-images.githubusercontent.com/91453728/142186525-6a5cfd87-b286-4da7-bfe3-7e7742151c1b.png)
+![image](https://user-images.githubusercontent.com/91453728/142189521-9a4051ae-bc24-4438-973b-f75b7612ec2b.png)
 
 ## 👀 A closer look
 
