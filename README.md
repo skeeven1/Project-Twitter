@@ -1,18 +1,15 @@
 # Project Twitter
-We made a twitter clone responsive using HTML5 + CSS3
+We made a twitter clone responsive using HTML5 and CSS for educational to learn more about this technologies
 
 ### Twitter clone built with CSS + HTML
 ## 🎴 Layout
-![image](https://user-images.githubusercontent.com/48324076/95918482-cae88b00-0da3-11eb-936a-1dec670eb250.png)
+![image](https://user-images.githubusercontent.com/91453728/142171233-0327832c-a3ea-4b91-8ebd-9a02ab643e36.png)
 
-###### 🚀🔥 [See in action](https://baziotabeans.github.io/twitter_clone/)
+###### 🚀🔥 [See in action](https://github.com/skeeven1/Project-Twitter)
 
 ## 💻 Technologies
 - [HTML5](https://www.w3schools.com/html/)
 - [CSS3](https://www.w3schools.com/css/)
-- [Javascript](https://www.w3schools.com/js/DEFAULT.asp)
-
-## 📕 License Released in 2020 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributors
 Made by Skeeven with Timothé  
